@@ -18,6 +18,32 @@
 
 [The ryg blog](https://fgiesen.wordpress.com/)
 
+[Nan Xiao's Blog](https://nanxiao.me/en/)
+
+[Fabien Sanglard's Website](https://fabiensanglard.net/)
+
+[Bits, pixels, cycles and more](https://zeux.io/)
+
+[0 FPS](https://0fps.net/)
+
+[GLSL SANDBOX](https://glslsandbox.com/)
+
+[Evan Wallace](https://madebyevan.com/)
+
+[CPP RENDERING](https://cpp-rendering.io/)
+
+[Shader Bits](https://shaderbits.com/)
+
+[juandiegomontoya](https://juandiegomontoya.github.io/)
+
+[Real-Time Rendering](https://www.realtimerendering.com/)
+
+[YINING KARL LI](https://www.yiningkarlli.com/)
+
+[codinglabs](http://www.codinglabs.net/)
+
+[Casual Effects](https://casual-effects.com/)
+
 ## Computer Graphics
 
 1. [Inigo Quilez blog](https://iquilezles.org/)
@@ -47,6 +73,7 @@
 5. [Geometry and the imagination](https://lamington.wordpress.com/)
 6. [Yufei Zhao](https://yufeizhao.com/)
 7. [XOR'S Hammer](https://xorshammer.com/)
+8. [Mathematics and Such](https://mathstrek.blog/)
 
 ## Functional Programming
 
