@@ -36,13 +36,13 @@
 
 [juandiegomontoya](https://juandiegomontoya.github.io/)
 
-[Real-Time Rendering](https://www.realtimerendering.com/)
-
-[YINING KARL LI](https://www.yiningkarlli.com/)
-
 [codinglabs](http://www.codinglabs.net/)
 
-[Casual Effects](https://casual-effects.com/)
+[quaternius](https://quaternius.com/)
+
+[Lesley Lai](https://lesleylai.info/)
+
+[New Yorko Times](https://yorko.github.io/)
 
 ## Computer Graphics
 
@@ -54,6 +54,19 @@
 6. [Graphic Rants](https://graphicrants.blogspot.com/)
 7. [rauwendaal.net](https://randallr.wordpress.com/)
 8. [Scratchapixel](https://www.scratchapixel.com/)
+9. [Rendering Equations](https://schuttejoe.github.io/)
+10. [Krzysztof Narkowicz](https://knarkowicz.wordpress.com/)
+11. [lisyarus blog](https://lisyarus.github.io/blog/)
+12. [Real-Time Rendering](https://www.realtimerendering.com/)
+13. [Angel Ortiz](https://www.aortiz.me/)
+14. [Jacco's Blog](https://jacco.ompf2.com/)
+15. [Alex Tardif](https://alextardif.com/)
+16. [Casual Effects](https://casual-effects.com/)
+17. [YINING KARL LI](https://www.yiningkarlli.com/)
+18. [The Danger Zone](https://therealmjp.github.io/)
+19. [The blog at the bottom of the sea](https://blog.demofox.org/)
+20. [Computer Graphics Techniques](https://jcgt.org/)
+21. [Alan Zucconi](https://www.alanzucconi.com/)
 
 ## C++
 
@@ -87,10 +100,6 @@
 2. [Jeremy Jordan](https://www.jeremyjordan.me/)
 3. [Анализ малых данных](https://alexanderdyakonov.wordpress.com/)
 
-## Platform for training
-
-1. [Kaggle](https://www.kaggle.com/)
-
 ## Concurrency
 
 1. [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/)
@@ -98,10 +107,6 @@
 ## Network
 
 1. [inc 0x0](https://inc0x0.com/)
-
-# YouTube
-
-1. [CoffeeBeforeArch](https://www.youtube.com/@CoffeeBeforeArch)
 
 # English
 
